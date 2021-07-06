@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "git+https://github.com/stpravi/stpravi.git"
   },
   "keywords": [
     "Birthday"
@@ -16,7 +16,7 @@
   "author": "Ayush Sharma",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
+    "url": "https://github.com/stpravi/stpravi.git/issues"
   },
   "homepage": "https://github.com/ayusharma/birthday#readme",
   "dependencies": {
